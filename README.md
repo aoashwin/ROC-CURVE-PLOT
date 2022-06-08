@@ -22,7 +22,9 @@ Uses of ROC Curve :
 3.Create Training and Test Samples\
 4.Fit the Logistic Regression Model\
 5.Model Diagnostics
+```
 
+```
 ## Program:
 ```python
 Program to plot Receiver Operating Characteristic [ROC] Curve.
